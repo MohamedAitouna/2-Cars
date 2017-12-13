@@ -1,7 +1,8 @@
 # 2 Cars-Unity
 
 A little  game like 2 Cars with Unity and C#
-![alt text](https://drive.google.com/open?id=1TNPlR1WMzrtfTCSF_CSp_RQezWxn1aK2)
+
+![alt text](https://github.com/MohamedAitouna/2-Cars/blob/master/2Cars.png?raw=true)
 
 ## Video Of The Game
 
